@@ -21,7 +21,7 @@ Utilizando a Inteligência Artificial - **Microsoft Copilot** - as imagens foram
 
 * Casa na praia
 * Casa no campo
-* Mapa GPS do Google
+* Indústria (Usina de Açúcar e Etanol)
 
 ### ``` Resultados ```
 
@@ -31,7 +31,7 @@ Os resultados foram excelentes. As descrições geradas pela inteligência artif
 
 * Casa na praia
 * Casa no campo
-* Mapa GPS do Google
+* Indústria (Usina de Açúcar e Etanol)
 
 ## Conclusão
 

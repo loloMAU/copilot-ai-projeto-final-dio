@@ -19,9 +19,9 @@ Utilizando a Inteligência Artificial - **Microsoft Copilot** - as imagens foram
 
 #### ``` Imagens de entrada ```
 
-* Casa na praia
-* Casa no campo
-* Indústria (Usina de Açúcar e Etanol)
+* <a href="./inputs/casa_de_palha_na_praia.jpg" target="_blank">Casa na praia</a>
+* <a href="./inputs/casa_de_campo_colonial.jpg" target="_blank">Casa de campo colonial</a>
+* <a href="./inputs/pindorama.jpeg" target="_blank">Indústria (Usina de Açúcar e Etanol)</a>
 
 ### ``` Resultados ```
 
@@ -29,9 +29,9 @@ Os resultados foram excelentes. As descrições geradas pela inteligência artif
 
 #### ``` Imagens com o resultado ```
 
-* Casa na praia
-* Casa no campo
-* Indústria (Usina de Açúcar e Etanol)
+* <a href="./output/casa_de_palha_na_praia-com_descricao.jpg" target="_blank">Casa na praia</a>
+* <a href="./output/casa_de_campo_colonial-com_descricao.jpg" target="_blank">Casa de campo colonial</a>
+* <a href="./output/pindorama-com_descricao.jpg" target="_blank">Indústria (Usina de Açúcar e Etanol)</a>
 
 ## Conclusão
 

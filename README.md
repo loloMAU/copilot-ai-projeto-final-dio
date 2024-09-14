@@ -48,4 +48,4 @@ A inteligência artificial tem se mostrado extremamente útil na descrição de 
 * Educação<br>
   Ferramentas educacionais podem utilizar para descrever imagens em materiais didáticos, tornando o aprendizado mais acessível e interativo para todos os alunos, incluindo aqueles com necessidades especiais.<br>
 
-A participação neste bootcamp me fez explorar e comprender como as AIs podem ser integradas em diversas áreas, adquiri conhecimentos e técnicas que são altamente valorizadas no mercado de trabalho atual. Este aprendizado ampliou minhas perspectivas profissionais.
+A participação neste bootcamp me fez explorar e compreender como as AIs podem ser integradas em diversas áreas, adquiri conhecimentos e técnicas que são altamente valorizadas no mercado de trabalho atual. Este aprendizado ampliou minhas perspectivas profissionais.

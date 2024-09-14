@@ -47,3 +47,5 @@ A inteligência artificial tem se mostrado extremamente útil na descrição de 
   No comércio eletrônico, a IA pode descrever produtos em imagens, ajudando os consumidores a encontrar exatamente o que procuram. Isso é especialmente útil em plataformas de compras online, onde a precisão na descrição do produto pode influenciar a decisão de compra.<br>
 * Educação<br>
   Ferramentas educacionais podem utilizar para descrever imagens em materiais didáticos, tornando o aprendizado mais acessível e interativo para todos os alunos, incluindo aqueles com necessidades especiais.<br>
+
+A participação neste bootcamp me fez explorar e comprender como as AIs podem ser integradas em diversas áreas, adquiri conhecimentos e técnicas que são altamente valorizadas no mercado de trabalho atual. Este aprendizado ampliou minhas perspectivas profissionais.
